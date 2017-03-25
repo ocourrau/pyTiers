@@ -1,8 +1,12 @@
-class JugadorContainer
-def __init__(self):
-    pass
+class JugadorContainer:
+
 list = []
-def AgregaJugador():
-    pass
-def EliminaJugador():
-    pass
+
+    def __init__(self):
+        pass
+
+    def AgregaJugador():
+        pass
+
+    def EliminaJugador():
+        pass
