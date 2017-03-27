@@ -1,6 +1,6 @@
 class JugadorContainer:
 
-list = []
+    list = []
 
     def __init__(self):
         pass
